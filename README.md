@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EduardoOCampos
-- 👀 I’m interested in study code
-- 🌱 I’m currently learning all kind of code
+- 👀 I’m interested in study code | prompts for AI
+- 🌱 I’m currently learning AI
 - 💞️ I’m not looking to collaborate now
 - 📫 How to reach me instagram @profeduardocampos
 
